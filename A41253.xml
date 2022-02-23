@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Few words among many, about the touchy point of succession humbly proposed to timely consideration against the session of Parliament; whether it be now, or hereafter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41253</idno>
+            <idno type="STC">Wing F838AB</idno>
+            <idno type="STC">ESTC R218787</idno>
+            <idno type="EEBO-CITATION">99830352</idno>
+            <idno type="PROQUEST">99830352</idno>
+            <idno type="VID">34803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2090:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Few words among many, about the touchy point of succession humbly proposed to timely consideration against the session of Parliament; whether it be now, or hereafter.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication conjectured by cataloger; Wing gives imprint date: [1679/80].</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Succession --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34803:1"/>
+            <pb facs="tcp:34803:1" rendition="simple:additions"/>
+            <head>A FEW WORDS AMONG MANY, About the touchy point of SUCCESSION, Humbly Propoſed to Timely Conſideration againſt the Seſſion of Parliament; whether it be now, or hereafter.</head>
+            <p>THE Caſe to be put is this. A Nation is Pro<g ref="char:EOLhyphen"/>teſtant in the main Body of it: He that is like to ſucceed in the Throne is a Roman Ca<g ref="char:EOLhyphen"/>tholick. What ſhall be done in ſuch an Affair? The Caſe does belong to the Divines, and to the Law<g ref="char:EOLhyphen"/>yers, though it be the Parliament alone muſt deter<g ref="char:EOLhyphen"/>mine it: Nay, the matter indeed is what every-body think themſelves engaged in, and every body ſpeak their minds of. There is no Coffee-houſe, and few private houſes, but their Table-talk is of theſe things. I ſee no reaſon therefere why I may not ſpeak my mind alſo, ſo long as I do it of my ſelf, and with this ſig<g ref="char:EOLhyphen"/>nification, that no others (how much ſoever elſe con<g ref="char:EOLhyphen"/>cern'd with me) have any hand in the publication of it. For I am perſwaded, that if the Parliament ſhall take the liberty (every one of them, as Engliſh-men and Proteſtants) to ſpeak the ſame things in the Houſe, as we do abroad, they would be leſs afraid of one ano<g ref="char:EOLhyphen"/>ther,
+<pb n="2" facs="tcp:34803:2"/>and more ſecure in their Counſels, (whatſoever they talk) in providing for the ſafety of the King<g ref="char:EOLhyphen"/>dom, and Religion.</p>
+            <p>It is decreed in the Council of Lateran, That all Princes ſhall Exterminate the Hereticks out of their Dominions, upon pain of Depoſition, Excommunica<g ref="char:EOLhyphen"/>tion, and Damnation. The Papiſts believe the Do<g ref="char:EOLhyphen"/>ctrines of their Church to be infallible, and what is decreed by a Pope and Univerſal Council is unqueſtio<g ref="char:EOLhyphen"/>nably received as a Doctrine of their Church; and conſequently if any thing be decreed to be done by any man, upon pain of Damnation, they muſt do it firſt or laſt, by ſuch means as they can, if they intend to be ſaved. Where a perſon then is a Roman Catholick, and true to his Religion, he cannot enter upon the Throne of a Proteſtant Kingdom, but he muſt reſolve to Exter<g ref="char:EOLhyphen"/>minate his Subjects. To enter ſo, is to enter Hoſtili animo, with the mind of an Enemy, as Hoſtis &amp; Ho<g ref="char:EOLhyphen"/>ſtis Publicus. But to be Hoſtis and Rex, a King and an Enemy; a Shepheard and Father of his People, and one that comes to make havock of them: To deſtroy, and to rule or govern; are things utterly incompati<g ref="char:EOLhyphen"/>ble.</p>
+            <p>The reſolution of this Caſe therefore in point of Reaſon and Conſcience is open. That ſuch a perſon muſt on neceſſity either renounce that Religion, or elſe he muſt relinquiſh the Government, and be con<g ref="char:EOLhyphen"/>tent that the next rightful Heirs or Succeſſors do poſ<g ref="char:EOLhyphen"/>ſeſs it.</p>
+            <p>Upon theſe terms now, if there be any perſon ſo pious and devout as not daring to hazard the Salva<g ref="char:EOLhyphen"/>tion of his Soul, he does purpoſe if he be King (what<g ref="char:EOLhyphen"/>ſoever comes of it, ſeeing he muſt) to make his people
+<pb n="3" facs="tcp:34803:2"/>turn Papiſts, or execute that Decree of the Church upon them; and if he be alſo ſo generous and brave, as that rather than do ſuch a thing as to perſecute his Country, and make the Nation miſerable, he will free<g ref="char:EOLhyphen"/>ly decline a Crown to avoid that intollerable incum<g ref="char:EOLhyphen"/>bent duty: What is there under the whole cope of Heaven ſo worthy to canonize a mans name to poſte<g ref="char:EOLhyphen"/>rity as ſuch an action? And what can be ſaid why the Repreſentative of a Nation might not make an humble and yet confident Addreſs to ſuch a one, to offer him Reaſons for his voluntary condeſcenſion to ſuch a Re<g ref="char:EOLhyphen"/>queſt made to him, when a forced depoſition by an Act of Parliament, before any ſuch tryal be attempted, may look exceeding hard, and alſo be ill taken? Nei<g ref="char:EOLhyphen"/>ther were it a thing leſs elegible, as it muſt certainly be more happy, to remain a Duke and Father of the next Succeſſor taking the Throne and reigning in quiet, than to be himſelf a King, and reign only in Blood, and with the Confuſion of his Subjects.</p>
+            <p>And to render this matter yet more glorious and ne<g ref="char:EOLhyphen"/>ceſſary to ſuch a Royal perſon, he ſhall moreover by doing thus provide ſecurity for the ſacred life of a So<g ref="char:EOLhyphen"/>veraign, and a Brother, which ſo long as a Papiſt is ſure to ſucceed, muſt be ſtill expoſed to Plots and Treaſon, Poyſon and Aſſaſſination: For there cannot be wanting a Clement, a Ravilliack, or ſome ſuch Villain, as is capable to be perſwaded, that by a feat ſo highly ad<g ref="char:EOLhyphen"/>vantagious to their Religion, he ſhall both expiate the ſin, and merit life eternal.</p>
+            <p>As for the Caſe in point of Law I undertake not; Only it appears to me (I muſt confeſs) from the Statute of the thirteenth of the Queen, that though this Go<g ref="char:EOLhyphen"/>vernment be Hereditary, it is ſo Hereditary as the
+<pb n="4" facs="tcp:34803:3"/>Laws or Statutes of Parliament do bind the deſcent of the Crown. And if it be as it appears, I have nothing elſe to ſay, but to deſire of God to give to thoſe who are now in expectation to be Aſſembled, the modera<g ref="char:EOLhyphen"/>tion and underſtanding of the Heads of the Children of Iſſachar, that they may know at ſuch a time as this what Iſrael hath to do.</p>
+            <p>And if there be no Act paſſed by them concerning theſe matters, I muſt for the diſcharge of my Con<g ref="char:EOLhyphen"/>ſcience ſuperad thus much further, that although on the part of the Soveraign he that is a Papiſt cannot take the Throne where the Body of the people are Proteſtant, according to right reaſon and Conſcience, as might be made to appear further, if what is ſaid were not ſuffi<g ref="char:EOLhyphen"/>cient already; yet on the part of the Subject, let the Crown fall to any perſon, whatſoever he be, whether Papiſt or Proteſtant, if he have right to it according to the preſent Law in force, and the Conſtitution of the Nation, there is no good Proteſtant, or no Subject that fears God, can riſe up in Arms againſt him upon the account of Religion. Evangelium (ſay our firſt Re<g ref="char:EOLhyphen"/>formers) non abolet politias.</p>
+            <p>We are taught this by the Primitive Chriſtians all a<g ref="char:EOLhyphen"/>long during the Reign of the Heathen; who, whatſo<g ref="char:EOLhyphen"/>ever their number was, in their Cities, Caſtles, Ar<g ref="char:EOLhyphen"/>mies (as ſome of the Fathers tell us) were ready to lay down their lives, and ſubmit to a Decimation upon a Decimation, rather than they would draw their Swords upon the Emperour, or ſin againſt Heaven. This we are taught more effectually by the Apoſtle, and are therefore never to be untaught it. Let every Soul be ſubject to the higher Powers; for there is no Power but of God; the Powers that be, are ordain'd of God. Whoſoever
+<pb n="5" facs="tcp:34803:3"/>therefore reſiſteth the Power reſiſteth the Ordinance of God; and they that reſiſt ſhall receive to themſelves Dam<g ref="char:EOLhyphen"/>nation. I ſpeak it (I muſt acknowledge) not only in regard to the prevention of Blood and Miſchief (if Providence ſhould call us under ſuch a Tryal) but in re<g ref="char:EOLhyphen"/>gard to the Parliament, that they may look the more about them, and conſider, they have a ſeaſon. And more particularly that they may beware of running into this Errour (upon which two Parliaments have ſplit already) the neglect of doing what may be done through an over-reaching haſte toward what they would have done (I mean in this point of Succeſſion) and which will be better done (if it be at all done) to be laſt done.</p>
+            <p>As for the Plot, I fear not likewiſe to ſay thus much, that whoſoever he be ſhall be found to have deſign'd the Introduction of Popery by the Murder of the King, or a Maſſacre of the People, I declare in the behalf of the publick, he ought to dye. Sir Edmund-Bury Godfrey's innocent Blood cryes for Juſtice on ſuch men: But if any perſon has had any hand in this Plot, no farther than to give his conſent and aſſiſtance to the bringing in that Religion upon us by an Univerſal Liberty of Con<g ref="char:EOLhyphen"/>ſcience, and no otherwiſe; which is conſequently by Teaching and Argument in a gentle progreſs of Time, and Perſwaſion, not by Violence and Blood, or any hurt to the Subject in their Lives and Eſtates, or by con<g ref="char:EOLhyphen"/>verſion of the Civil Government from Regal to Deſpo<g ref="char:EOLhyphen"/>tical, as by many is imagined; and, being now con<g ref="char:EOLhyphen"/>vinced of the deteſtable Villany and Helliſh Devotion of others, who were precipitating the Deſign with Re<g ref="char:EOLhyphen"/>gicide and a Common ſlaughter, ſhall be willing hereupon to make ſome remonſtrance for the purging himſelf and
+<pb n="6" facs="tcp:34803:4"/>his Conſcience, and the teſtifying his abhorrence of proceeding further in ſuch an Enterpriſe; I muſt de<g ref="char:EOLhyphen"/>clare with the like open freedom, that ſuch a one ought to be Heard. And who can tell what might be the iſ<g ref="char:EOLhyphen"/>ſue of ſuch a piece of Ingenuity as this only? To ſay, Look you, Sirs, Thus it has been, I confeſs it, and thus: Theſe are the Conſequents; I ſee the evil, It ſhall be ſo no more.</p>
+            <p>In the name of God, let us but have a Gentleman<g ref="char:EOLhyphen"/>like Repentance, that is right Engliſh, without re<g ref="char:EOLhyphen"/>ſerve, and here is the way to the firſt, and conſequent<g ref="char:EOLhyphen"/>ly the beſt and moſt deſireable reconcilement that can be in the Caſe; to the moſt eaſie coming off from what is paſt, and for the giving the moſt Heroical Satisfacti<g ref="char:EOLhyphen"/>on that can be given to the Land.</p>
+            <p>By this means ſhall ſuch a perſon engage himſelf to the ſtrongeſt retractation of all that is ill, for recovery of his truſt with the Nation; and the Plot be ſo laid o<g ref="char:EOLhyphen"/>pen, that the Parliament may proceed to the applica<g ref="char:EOLhyphen"/>tion of a perfect Remedy. By this means ſhall the in<g ref="char:EOLhyphen"/>nocent be put into ſafety, and the guilty (ſo far as any is guilty) into his right courſe of obtaining the forgiveneſs of his Country. For ſuch is the nature of the Engliſh ſpirit, that when it generouſly proſecutes the obſtinate Offender with vehemence and courage, as ſoon as he does but relent or comes to ſuffer, it is preſently apt to commiſeration, and to think the beſt of him.</p>
+            <p>I ſhall conclude with a Text of Scripture. If this great man ſhall neither come off from his way (which were to be firſt wiſhed,) nor to a Compromiſe and Reſig<g ref="char:EOLhyphen"/>nation (which were to be ſought next); nor the Par<g ref="char:EOLhyphen"/>liament to ſome Act for Conſtraint; to make him chuſe the one or the other (which is to be laſt attempted);
+<pb n="7" facs="tcp:34803:4"/>or for Reſtraint, by ordering the Militia and other things ſo as it ſhall be equivalent, or as politickly good for England, as if he did either; I ſhall deliver my own Soul as a Watchman, and as an Engliſh-man, proteſt before God that I can ſee the appearance of nothing but evil, that is, Deſtruction, Miſery, and Trouble, coming upon the three Kingdoms. Now it came to paſs after this, that Amaziah brought the Gods of the Children of Seir, and ſet them up, and bowed before them. Wherefore Gods An<g ref="char:EOLhyphen"/>ger was kindled, and he ſent to him a Prophet; and it came to paſs as the Prophet was talking with him, he ſaid, Art thou made of the Kings Council? Forbear, why ſhouldſt thou be ſmitten? Then the Prophet forbore, and ſaid, I know that God hath determined to deſtroy thee, becauſe thou haſt done this, and haſt not hearkened to my Coun<g ref="char:EOLhyphen"/>ſel.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
